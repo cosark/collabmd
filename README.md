@@ -51,6 +51,10 @@ Ready for collaboration. Press Ctrl+C to stop.
 
 Prefer Homebrew or source install? Jump to [Installation options](docs/installation.md).
 
+## One-Click Deploy
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/CollabMD/)
+
 ## See it in action
 
 See CollabMD editing the same workspace from two browsers in realtime:
